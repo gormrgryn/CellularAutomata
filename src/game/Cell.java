@@ -1,6 +1,6 @@
 package game;
 
-public final class Cell {
+public class Cell {
 	public int x;
 	public int y;
 	public boolean isAlive;
